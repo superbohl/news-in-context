@@ -1,0 +1,9 @@
+streamlit
+transformers==4.36.2
+sentence-transformers
+keybert
+beautifulsoup4
+requests
+tldextract
+spacy
+scikit-learn
